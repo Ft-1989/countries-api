@@ -34,7 +34,7 @@ function App() {
         <main>
           <Routes>
             <Route
-              path="/"
+              path="/countries-api"
               element={
                 <>
                   <Filter
