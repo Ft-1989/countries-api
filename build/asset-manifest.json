@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ft-1989/countries-api/static/css/main.f568579f.css",
+    "main.js": "/Ft-1989/countries-api/static/js/main.a3a14e73.js",
+    "index.html": "/Ft-1989/countries-api/index.html",
+    "main.f568579f.css.map": "/Ft-1989/countries-api/static/css/main.f568579f.css.map",
+    "main.a3a14e73.js.map": "/Ft-1989/countries-api/static/js/main.a3a14e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f568579f.css",
+    "static/js/main.a3a14e73.js"
+  ]
+}
