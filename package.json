@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://ft-1989.github.io/rest-countries-api-with-color-theme-switcher-master",
+  "homepage": "https://ft-1989.github.io/countries-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
